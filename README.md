@@ -1,3 +1,3 @@
 # Text-Recognition
 Text Recognition
-.
+
